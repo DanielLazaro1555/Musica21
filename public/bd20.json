@@ -1,0 +1,123 @@
+[
+  {
+    "archivo_musica": "Albums/198274453_1.flac",
+    "descripcion": "198274453",
+    "imagen": "Albums/198274453.jpg",
+    "genero": "Pop",
+    "titulo": "Hello",
+    "artista": "Adele",
+    "album": "25",
+    "numero_de_pista": "1/11",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274453_2.flac",
+    "descripcion": "198274453",
+    "imagen": "Albums/198274453.jpg",
+    "genero": "Pop",
+    "titulo": "Send My Love (To Your New Lover)",
+    "artista": "Adele",
+    "album": "25",
+    "numero_de_pista": "2/11",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274453_3.flac",
+    "descripcion": "198274453",
+    "imagen": "Albums/198274453.jpg",
+    "genero": "Pop",
+    "titulo": "I Miss You",
+    "artista": "Adele",
+    "album": "25",
+    "numero_de_pista": "3/11",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274453_4.flac",
+    "descripcion": "198274453",
+    "imagen": "Albums/198274453.jpg",
+    "genero": "Pop",
+    "titulo": "When We Were Young",
+    "artista": "Adele",
+    "album": "25",
+    "numero_de_pista": "4/11",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274453_5.flac",
+    "descripcion": "198274453",
+    "imagen": "Albums/198274453.jpg",
+    "genero": "Pop",
+    "titulo": "Remedy",
+    "artista": "Adele",
+    "album": "25",
+    "numero_de_pista": "5/11",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274453_6.flac",
+    "descripcion": "198274453",
+    "imagen": "Albums/198274453.jpg",
+    "genero": "Pop",
+    "titulo": "Water Under the Bridge",
+    "artista": "Adele",
+    "album": "25",
+    "numero_de_pista": "6/11",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274453_7.flac",
+    "descripcion": "198274453",
+    "imagen": "Albums/198274453.jpg",
+    "genero": "Pop",
+    "titulo": "River Lea",
+    "artista": "Adele",
+    "album": "25",
+    "numero_de_pista": "7/11",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274453_8.flac",
+    "descripcion": "198274453",
+    "imagen": "Albums/198274453.jpg",
+    "genero": "Pop",
+    "titulo": "Love In The Dark",
+    "artista": "Adele",
+    "album": "25",
+    "numero_de_pista": "8/11",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274453_9.flac",
+    "descripcion": "198274453",
+    "imagen": "Albums/198274453.jpg",
+    "genero": "Pop",
+    "titulo": "Million Years Ago",
+    "artista": "Adele",
+    "album": "25",
+    "numero_de_pista": "9/11",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274453_10.flac",
+    "descripcion": "198274453",
+    "imagen": "Albums/198274453.jpg",
+    "genero": "Pop",
+    "titulo": "All I Ask",
+    "artista": "Adele",
+    "album": "25",
+    "numero_de_pista": "10/11",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274453_11.flac",
+    "descripcion": "198274453",
+    "imagen": "Albums/198274453.jpg",
+    "genero": "Pop",
+    "titulo": "Sweetest Devotion",
+    "artista": "Adele",
+    "album": "25",
+    "numero_de_pista": "11/11",
+    "Año": "2015"
+  }
+]
