@@ -130,5 +130,159 @@
     "album": "Mephisto",
     "numero_de_pista": "1/1",
     "Año": "2023"
+  },
+  {
+    "archivo_musica": "Albums/198274455_1.flac",
+    "descripcion": "198274455",
+    "imagen": "Albums/198274455.jpg",
+    "genero": "Rock",
+    "titulo": "White Light",
+    "artista": "Superfly",
+    "album": "WHITE",
+    "numero_de_pista": "1/14",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274455_2.flac",
+    "descripcion": "198274455",
+    "imagen": "Albums/198274455.jpg",
+    "genero": "Rock",
+    "titulo": "Beautiful",
+    "artista": "Superfly",
+    "album": "WHITE",
+    "numero_de_pista": "2/14",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274455_3.flac",
+    "descripcion": "198274455",
+    "imagen": "Albums/198274455.jpg",
+    "genero": "Rock",
+    "titulo": "Iro wo hagashite",
+    "artista": "Superfly",
+    "album": "WHITE",
+    "numero_de_pista": "3/14",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274455_4.flac",
+    "descripcion": "198274455",
+    "imagen": "Albums/198274455.jpg",
+    "genero": "Rock",
+    "titulo": "On Your Side",
+    "artista": "Superfly",
+    "album": "WHITE",
+    "numero_de_pista": "4/14",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274455_5.flac",
+    "descripcion": "198274455",
+    "imagen": "Albums/198274455.jpg",
+    "genero": "Rock",
+    "titulo": "A.HA.HA",
+    "artista": "Superfly",
+    "album": "WHITE",
+    "numero_de_pista": "5/14",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274455_6.flac",
+    "descripcion": "198274455",
+    "imagen": "Albums/198274455.jpg",
+    "genero": "Rock",
+    "titulo": "Woman",
+    "artista": "Superfly",
+    "album": "WHITE",
+    "numero_de_pista": "6/14",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274455_7.flac",
+    "descripcion": "198274455",
+    "imagen": "Albums/198274455.jpg",
+    "genero": "Rock",
+    "titulo": "Datsugoku no kisetsu",
+    "artista": "Superfly",
+    "album": "WHITE",
+    "numero_de_pista": "7/14",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274455_8.flac",
+    "descripcion": "198274455",
+    "imagen": "Albums/198274455.jpg",
+    "genero": "Rock",
+    "titulo": "Libido Ni Tsugu",
+    "artista": "Superfly",
+    "album": "WHITE",
+    "numero_de_pista": "8/14",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274455_9.flac",
+    "descripcion": "198274455",
+    "imagen": "Albums/198274455.jpg",
+    "genero": "Rock",
+    "titulo": "ai o karadani fukikonde",
+    "artista": "Superfly",
+    "album": "WHITE",
+    "numero_de_pista": "9/14",
+    "Año": "2014"
+  },
+  {
+    "archivo_musica": "Albums/198274455_10.flac",
+    "descripcion": "198274455",
+    "imagen": "Albums/198274455.jpg",
+    "genero": "Rock",
+    "titulo": "Live",
+    "artista": "Superfly",
+    "album": "WHITE",
+    "numero_de_pista": "10/14",
+    "Año": "2014"
+  },
+  {
+    "archivo_musica": "Albums/198274455_11.flac",
+    "descripcion": "198274455",
+    "imagen": "Albums/198274455.jpg",
+    "genero": "Rock",
+    "titulo": "Space",
+    "artista": "Superfly",
+    "album": "WHITE",
+    "numero_de_pista": "11/14",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274455_12.flac",
+    "descripcion": "198274455",
+    "imagen": "Albums/198274455.jpg",
+    "genero": "Rock",
+    "titulo": "Gokusaishiki heartbeat",
+    "artista": "Superfly",
+    "album": "WHITE",
+    "numero_de_pista": "12/14",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274455_13.flac",
+    "descripcion": "198274455",
+    "imagen": "Albums/198274455.jpg",
+    "genero": "Rock",
+    "titulo": "You You",
+    "artista": "Superfly",
+    "album": "WHITE",
+    "numero_de_pista": "13/14",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274455_14.flac",
+    "descripcion": "198274455",
+    "imagen": "Albums/198274455.jpg",
+    "genero": "Rock",
+    "titulo": "Itsuka watashi wa uta wo utau",
+    "artista": "Superfly",
+    "album": "WHITE",
+    "numero_de_pista": "14/14",
+    "Año": "2015"
   }
 ]
