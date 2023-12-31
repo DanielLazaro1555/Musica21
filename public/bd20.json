@@ -119,5 +119,16 @@
     "album": "25",
     "numero_de_pista": "11/11",
     "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274454_1.flac",
+    "descripcion": "198274454",
+    "imagen": "Albums/198274454.jpg",
+    "genero": "Rock",
+    "titulo": "Mephisto",
+    "artista": "QUEEN BEE",
+    "album": "Mephisto",
+    "numero_de_pista": "1/1",
+    "Año": "2023"
   }
 ]
